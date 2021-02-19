@@ -1,2 +1,2 @@
-# shopping-is-fun-python
+# Python Project: shopping-is-fun-python
 Python Selenium WebDriver Test Project
